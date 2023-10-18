@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\TLM\\Desktop\\gabriel\\UdemyProjects\\BarberBooking.API\\BarberBooking.API.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\TLM\\Desktop\\gabriel\\UdemyProjects\\BarberBooking.API\\BarberBooking.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\TLM\\Desktop\\gabriel\\UdemyProjects\\BarberBooking.API\\BarberBooking.API.csproj",
+        "projectName": "BarberBooking.API",
+        "projectPath": "c:\\Users\\TLM\\Desktop\\gabriel\\UdemyProjects\\BarberBooking.API\\BarberBooking.API.csproj",
+        "packagesPath": "C:\\Users\\TLM\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\TLM\\Desktop\\gabriel\\UdemyProjects\\BarberBooking.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TLM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
